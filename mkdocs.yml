@@ -1,1 +1,19 @@
-site_name: My Docs
+# Project information
+site_name: Dustin Sullivan's Software Engineer Portfolio
+site_url: https://psycik.github.io
+site_author: Dustin Sullivan
+site_description: >-
+  I am Dustin Sullivan, senior software engineer, 
+  and you are here on my portfolio
+  
+ # Repository: necessary to display the repo on the top right corner
+repo_name: psycik/psycik.github.io
+repo_url: https://github.com/psycik/psycik.github.io
+
+# Configuration:
+theme:
+  name: material
+  
+ # Page tree
+nav:
+- Home: index.md
