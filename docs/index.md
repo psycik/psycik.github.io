@@ -1,6 +1,20 @@
 # Dustin Sullivan - Senior Software Engineer
 
-Welcome to my portfolio! I'm Dustin Sullivan, a Software Engineer specializing in **C++**, **Java**, and **full stack development**. With experience in developing high-performance applications, communication, and encryption/decryption systems, I bring a strong focus on building robust and efficient software.
+As an accomplished Senior Software Engineer with over 30 years of experience, I have demonstrated my expertise in designing, developing, and optimizing core product features while driving cross-functional engineering initiatives. With a proven track record in **C++**, **Java**, and **full stack development**, I thrive in dynamic, fast-paced environments, consistently delivering high-quality, clean code and innovative solutions to complex challenges.
+
+---
+
+#### Key Qualifications:
+
+- **Backend & Full-stack Development Expertise**: Over 3 decades of experience in developing scalable, efficient backend systems and full-stack applications using modern programming languages and frameworks. My experience spans C++ (including C++17/20), Java, Go, and Flutter, in large-scale applications.
+  
+- **Leadership & Mentorship**: I have successfully led cross-team engineering initiatives and contributed to the growth and development of senior engineers through thoughtful code, design, and architecture reviews. My leadership includes defining technical directions, planning roadmaps, and estimating project timelines, ensuring timely delivery and quality output.
+
+- **Problem Solving & Clean Architecture**: Skilled at breaking down complex problems into manageable solutions, I apply the clean architecture approach and focus on software craftsmanship. My solutions are designed to be maintainable, efficient, and aligned with business goals, with particular emphasis on clear and scalable architecture.
+
+- **Collaboration & Communication**: I excel in collaborating across teams to synthesize feedback, address risks, and escalate issues as needed. My excellent written and verbal communication skills allow me to effectively articulate technical concepts and ensure cross-team success.
+
+- **Passion for Quality & Innovation**: I am deeply committed to producing high-quality code and staying current with new technologies and industry standards. My contributions often result in innovative solutions that enhance product performance and user experience.
 
 ---
 
@@ -36,7 +50,7 @@ Welcome to my portfolio! I'm Dustin Sullivan, a Software Engineer specializing i
 ## Skills
 
 - **Programming Languages**: C++, Java, Go, Solidity, Flutter/Dart, Rust, Javascript, Python
-- **Frameworks & Libraries**: JNI, OpenSSL, libfido2
+- **Frameworks & Libraries**: Node.js, Next.js, Spring Boot, Flutter, Ionic, Kotlin
 - **Tools**: Git, Visual Studio, CMake, Docker
 - **Development Practices**: Test-driven development (TDD), Agile methodologies, Code reviews, Continuous integration (CI/CD)
 
